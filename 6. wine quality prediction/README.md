@@ -1,5 +1,3 @@
-**Model Type**
-
 * **Classification:** This model is designed to predict a categorical outcome – whether a wine is of "good quality" (1) or "bad quality" (0).
 
 **Algorithm**
